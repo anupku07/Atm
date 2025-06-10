@@ -1,0 +1,16 @@
+Jun 10, 2025 9:49:58 AM ATMOperations <init>
+INFO: ATM initialized for account: ACC123456789
+Jun 10, 2025 9:50:08 AM ATMOperations validatePin
+INFO: Successful login for account: ACC123456789
+Jun 10, 2025 9:51:02 AM ATMOperations <init>
+INFO: ATM initialized for account: ACC123456789
+Jun 10, 2025 9:51:08 AM ATMOperations validatePin
+INFO: Successful login for account: ACC123456789
+Jun 10, 2025 9:52:31 AM ATMOperations <init>
+INFO: ATM initialized for account: ACC123456789
+Jun 10, 2025 9:54:03 AM ATMOperations <init>
+INFO: ATM initialized for account: ACC123456789
+Jun 10, 2025 9:54:10 AM ATMOperations validatePin
+INFO: Successful login for account: ACC123456789
+Jun 10, 2025 9:54:18 AM ATMOperations deposit
+INFO: Deposit successful: ₹233.0 to account: ACC123456789
